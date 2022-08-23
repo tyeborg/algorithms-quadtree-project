@@ -32,10 +32,11 @@ Size Band: < 3,013 ft2 (280m2)
 ------------------------------------
 ```
 
-## Installation Steps
-1. Clone this repository by `git clone https://github.com/tyeborg/algorithms-quadtree-project.git`
-2. Change the working directory by 'cd code'
-3. Run the program by 'python -u main.py`
+## Installation
+Clone this repository by `git clone https://github.com/tyeborg/algorithms-quadtree-project.git`.
+  * Navigate to the `code` folder/change the working directory by entering the following in the command line: `cd code`.
+ 
+Ensure `main.py` is in the current directory as `./uk_glx_open_retail_points_v20_202104.csv` and execute `python -u main.py` to run the program.
 
 ## Languages & Tools Utilized
 
