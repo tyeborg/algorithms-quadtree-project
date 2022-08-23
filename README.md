@@ -32,6 +32,11 @@ Size Band: < 3,013 ft2 (280m2)
 ------------------------------------
 ```
 
+## Installation Steps
+1. Clone this repository by `git clone https://github.com/tyeborg/algorithms-quadtree-project.git`
+2. Change the working directory by 'cd code'
+3. Run the program by 'python -u main.py`
+
 ## Languages & Tools Utilized
 
 <p float="left">
