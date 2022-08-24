@@ -33,9 +33,9 @@ Size Band: < 3,013 ft2 (280m2)
 ```
 
 ## Installation
-* Clone this repository by `git clone https://github.com/tyeborg/algorithms-quadtree-project.git`.
-  * Navigate to the `code` folder/change the working directory by entering the following in the command line: `cd code`.
-* Ensure `main.py` is in the current directory as `./uk_glx_open_retail_points_v20_202104.csv` and execute `python -u main.py` to run the program.
+Clone this repository by `git clone https://github.com/tyeborg/algorithms-quadtree-project.git`.
+
+Navigate to the `code` folder/change the working directory by entering the following in the command line: `cd code`. Ensure `main.py` is in the new working directory as `./uk_glx_open_retail_points_v20_202104.csv` and execute `python -u main.py` to run the program.
 
 ## Languages & Tools Utilized
 
@@ -44,3 +44,14 @@ Size Band: < 3,013 ft2 (280m2)
     <img src="https://skillicons.dev/icons?i=python,vscode" />
   </a>
 </p>
+
+## Project Evaluation
+*"Excellent job! Congratulations."* - Roberto Murcio
+
+The Quadtree is programmed from scratch with a robust and well-designed strategy. The tree’s leaves hold the triplet T. The code allows the user to perform more than one search by longitude and latitude and provides the functionality to end the program. The output is presented in the form of a table, where each column is labelled.
+Coding style is remarkable (proper use of data frames in Python); sensible variable names; proper comments and indentation).
+
+**Grade**: 92.00 / 100.00
+
+<img width="914" alt="Screen Shot 2022-08-24 at 1 01 12 AM" src="https://user-images.githubusercontent.com/96035297/186286710-112a22a3-b990-4a96-8a9c-7387b824bc39.png">
+
